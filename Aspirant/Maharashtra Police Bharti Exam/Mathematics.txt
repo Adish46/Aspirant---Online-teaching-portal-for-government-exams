@@ -1,0 +1,313 @@
+
+Question 1: The locus of the mid-point of the line segment joining the focus of the parabola y2 = 4ax to a moving point of the parabola, is another parabola whose directrix is:
+
+a. x = a
+b. x = 0
+c. x = -a/2
+d. x = a/2
+Solution:
+
+Answer: (b)
+
+JEE Main 2021 Paper With Solution Maths Feb 24 Shift 1
+
+h = (at2+a)/2, k = (2at+0)/2
+
+⇒ t2 =(2h-a)/a and t=k/a
+
+⇒ k2/a2 =(2h-a)/a
+
+⇒ Locus of (h, k) is y2 = a (2x – a)
+
+⇒ y2 = 2a(x- a/2)
+
+Its directrix is x - a/2 = -a/2
+
+⇒ x = 0
+
+Question 2: A scientific committee is to formed from 6 Indians and 8 foreigners, which includes at least 2 Indians and double the number of foreigners as Indians. Then the number of ways, the committee can be formed is:
+
+a. 560
+b. 1050
+c. 1625
+d. 575
+Solution:
+
+Answer: (c)
+
+(2I,4F)+ (3I,6F) + (4I,8F)
+
+=
+
+= 15 × 70 + 20 × 28 + 15 × 1
+
+= 1050 + 560 + 15 = 1625
+
+Question 3: The equation of the plane passing through the point (1,2,–3) and perpendicular to the planes 3x + y – 2z = 5 and 2x – 5y – z = 7, is:
+
+a. 3x – 10y – 2z + 11 = 0
+b. 6x – 5y – 2z – 2 = 0
+c. 11x + y + 17z + 38 = 0
+d. 6x – 5y + 2z + 10 = 0
+Solution:
+
+Answer: (c)
+
+JEE Main 2021 Papers With Solutions Feb 24 Maths Shift 1
+
+Question 4: A man is walking on a straight line. The arithmetic mean of the reciprocals of the intercepts of this line on the coordinate axes is 1/4. Three stones A, B and C are placed at the points (1,1),(2,2), and (4,4) respectively. Then which of these stones is/are on the path of the man?
+
+a. B only
+b. A only
+c. the three
+d. C only
+Solution:
+
+Answer: (a)
+
+x/a + y/b = 1
+
+h/a + k/b = 1 ⋯⋯(1)
+
+and (1/a + 1/b)/2 = 1/4
+
+∴1/a + 1/b = 1/2 ⋯⋯(2)
+
+(From (1) and (2))
+
+Line passes through fixed point B(2, 2)
+
+Question 5: The statement among the following that is a tautology is:
+
+a. A∧(A∨B)
+b. B→[A∧(A→B)]
+c. A∨(A∧B)
+d. [A∧(A→B)]→B
+Solution:
+
+Answer: (d)
+
+A∧ (~ A∨B)→B
+
+= [(A∧~A)∨(A∧B)]→ B
+
+= (A∧ B)→ B
+
+= ~ (A∧B)∨B
+
+= t
+
+Question 6: Let f :R→R be defined as f(x) = 2x-1 and g:R - {1} →R be defined as g(x) = (x-½)/(x-1).
+
+Then the composition function f(g(x)) is:
+
+a. Both one-one and onto
+b. onto but not one-one
+c. Neither one-one nor onto
+d. one-one but not onto
+Solution:
+
+Answer: (d)
+
+f(g(x)) = 2g(x) - 1
+
+= 2(x - 1/2)/(x - 1) - 1
+
+= x/(x - 1)
+
+f(g(x)) = 1 + 1/(x - 1)
+
+
+
+∴ one-one, into
+
+Question 7: If f:R→ R is a function defined by f(x) = [x - 1] cos ((2x - 1)/2)𝜋 , where [.] denotes the greatest integer function, then f is:
+
+a. discontinuous only at x = 1
+b. discontinuous at all integral values of x except at x = 1
+c. continuous only at x = 1
+d. continuous for every real x
+Solution:
+
+Answer: (d)
+
+Doubtful points are x = n, n∈I
+
+JEE Main 2021 Maths Papers Feb 24 Shift 1 With Solutions 
+
+f(n) = 0
+
+Hence continuous.
+
+Question 8: The function f(x) = (4x3- 3x2)/6 - 2sin x + (2x - 1)cos x:
+
+a. increases in [1/2, ∞)
+b. decreases (-∞, 1/2]
+c. increases in (-∞, 1/2]
+d. decreases [1/2, ∞)
+Solution:
+
+Answer: (a)
+
+f’(x) = (2x - 1) (x - sin x )
+
+⇒ f'x ≥ 0 in x∈(-∞, 0] ⋃ [1/2, ∞)
+
+and f'x ≤ 0 in x∈(0, ½)
+
+Question 9: The distance of the point (1, 1, 9) from the point of intersection of the line (x - 3)/1 = (y - 4)/2 = (z - 5)/2 and the plane x + y + z = 17 is:
+
+a. √38
+b. 19√2
+c. 2√19
+d. 38
+Solution:
+
+Answer: (a)
+
+(x - 3)/1 = (y - 4)/2 = (z - 5)/2 = λ
+
+x = λ + 3, y = 2λ+ 4, z = 2λ+5
+
+Which lies on given plane hence
+
+⇒ λ+3+2λ +4+2λ+5 = 17
+
+⇒ λ = 5/5 = 1
+
+Hence, point of intersection is Q (4, 6, 7)
+
+∴ Required distance =PQ
+
+= √(9+25+4)
+
+= √38
+
+Question 10:
+
+
+JEE Main Solution 2021 Maths Papers Feb 24 Shift 1 
+
+a. 2/3
+b. 0
+c. 1/15
+d. 3/2
+Solution:
+
+Answer: (a)
+
+JEE Main Solution Feb 24 Shift 1 2021 Maths Papers 
+
+Question 11: Two vertical poles are 150 m apart and the height of one is three times that of the other. If from the middle point of the line joining their feet, an observer finds the angles of elevation of their tops to be complementary, then the height of the shorter pole (in meters) is:
+
+a. 25
+b. 20√3
+c. 30
+d. 25√3
+Solution:
+
+Answer: (d)
+
+JEE Main Feb 24 Shift 1 2021 Solved Maths Papers
+
+tan θ = h/75 = 75/3h
+
+h2 = 752/3
+
+h = 25√3m
+
+Question 12: If the tangent to the curve y = x3 at the point P(t, t3) meets the curve again at Q, then the ordinate of the point which divides PQ internally in the ratio 1:2 is:
+
+a. –2t3
+b. –t3
+c. 0
+d. 2t3
+Solution:
+
+Answer: (a)
+
+Equation of tangent at P(t, t3)
+
+(y - t3) = 3t2(x - t) ⋯(1)
+
+Now solve the above equation with
+
+y = x3 ⋯(2)
+
+By (1) & (2)
+
+x3 – t3 = 3t2 (x - t)
+
+x2 + xt + t2 = 3t2
+
+x2 + xt – 2t2 = 0
+
+⇒(x – t)(x + 2t) = 0
+
+⇒x = - 2t
+
+⇒Q(-2t, -8t3)
+
+Ordinate of required point = (2t3 + (-8t)3)/3
+
+= -2t3
+
+Question 13: The area (in sq.units) of the part of the circle x2 + y2 = 36, which is outside the parabola y2 = 9x, is:
+
+a. 24π + 3√3
+b. 12π + 3√3
+c. 12π - 3√3
+d. 24π - 3√3
+Solution:
+
+Answer: (d)
+
+The curves intersect at point (3, ± 3√3)
+
+Shift 1 JEE Main Feb 24 2021 Solved Maths Papers
+
+Required area
+
+Shift 1 2021 JEE Main Feb 24 Solved Maths Papers
+
+Question 14: If ∫(cos x -sin x)/√(8-sin 2x) dx = a sin-1(sin x + cos x)/b + c where c is a constant of integration, then the ordered pair (a, b) is equal to:
+
+a. (1, –3)
+b. (1, 3)
+c. (–1, 3)
+d. (3, 1)
+Solution:
+
+Answer: (b)
+
+Put sin x + cos x = t ⇒1 + sin 2x = t2
+
+(cos x -sin x ) dx = dt
+
+⇒I = ∫dt/√(8-(t2-1))
+
+= ∫dt/(9-t2)
+
+= sin-1 (t/3) + c = sin-1(sin x + cos x)/3 + c
+
+⇒ a = 1 and b = 3
+
+Question 15: The population P = P(t) at time ‘t’ of a certain species follows the differential equation dP/dt = 0.5P - 450. If P(0) = 850, then the time at which population becomes zero is:
+
+a. ½ loge 18
+b. 2loge 18
+c. loge 9
+d. loge 18
+Solution:
+
+Answer: (b)
+
+dp/dt = (p-900)/2
+
+Shift 1 Feb 24 JEE Main 2021 Solved Maths Papers
+
+ln |900| - ln |50| = t/2
+
+t/2 = ln |18|
+
+⇒ t = 2ln 18

@@ -1,0 +1,149 @@
+Number Series – Logical Reasoning Questions
+Q1. Look at this series: 12, 11, 13, 12, 14, 13, … What number should come next?
+A. 10
+B. 16
+C. 13
+D. 15
+Answer: Option D. This is an alternating number of subtraction series. First, 1 is subtracted, then 2 is added.
+
+Q2. Look at this series: 36, 34, 30, 28, 24, … What number should come next?
+A. 22
+B. 26
+C. 23
+D. 20
+Answer: Option A. This is an alternating number of subtraction series. First, 2 is subtracted, then 4, then 2, and so on.
+
+Q3. Look at this series: 7, 10, 8, 11, 9, 12, … What number should come next?
+A. 7
+B. 12
+C. 10
+D. 13
+Answer: Option C. Its an alternating addition and subtraction series. 3 is added in the first pattern, and then 2 is subtracted.
+
+Q4. Look at this series: 2, 1, (1/2), (1/4), … What number should come next?
+A. (1/3)
+B. (1/8)
+C. (2/8)
+D. (1/16)
+Answer: Option B. It’s a division series. Every number is half of the previous number. The number is divided by 2 successively to get the next result. 4/2 = 2. 2/2 = 1. 1/2 = ½. (1/2)/2 = ¼. (1/4)/2 = 1/8 and so on.
+
+Q5. Look at this series: 80, 10, 70, 15, 60, … What number should come next?
+A. 20
+B. 25
+C. 30
+D. 50
+Answer: Option A. This is an alternating addition and subtraction series. In the first pattern, 10 is subtracted from each number to arrive at the next. In the second, 5 is added to each number to arrive at the next.
+
+Upskill and elevate your career goals today!
+Logical Reasoning Questions on Verbal Classification
+Q6. Which word does NOT belong with the others?
+A. index
+B. glossary
+C. chapter
+D. book
+Answer: D. Book. Rest are all parts of a book.
+
+Q7. Which word is the odd man out?
+A. trivial
+B. unimportant
+C. important
+D. insignificant
+Answer: C. Important. Remaining are synonyms of each other.
+
+Q8. Which word does NOT belong with the others?
+A. wing
+B. fin
+C. beak
+D. rudder
+Answer: C. Beak. Rest are parts of an aero plane.
+
+Q9. Which word is the odd man out?
+A. hate
+B. fondness
+C. liking
+D. attachment
+Answer: A. hate. Rest are positive emotions.
+
+Q10. Pick the odd man out?
+A. just
+B. fair
+C. equitable
+D. biased
+Answer: D. Biased. The others signify honesty.
+
+Logical Reasoning Questions on Analogies
+Q11. CUP : LIP :: BIRD : ?
+A. GRASS
+B. FOREST
+C. BEAK
+D. BUSH
+Answer: C. BEAK. You drink out of a cup with your lips. Similarly, birds bite grass with their beaks.
+
+Q12. Paw : Cat :: Hoof : ?
+A. Lamb
+B. Horse
+C. Elephant
+D. Tiger
+Answer: B. Horse. Cat’s feet are called paws and horse’s are called hoofs.
+
+Q13. Safe : Secure :: Protect :
+A. Lock
+B. Guard
+C. Sure
+D. Conserve
+Answer: B. Guard
+
+Q14. Melt : Liquid :: Freeze :
+A. Ice
+B. Solid
+C. Condense
+D. Push
+Answer: B. Solid
+
+Q15. Parts : Strap :: Wolf :
+A. Flow
+B. Animal
+C. Wood
+D. Fox
+Answer: Flow
+
+Logical Reasoning Questions on Matching Definitions
+Q16. An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?
+
+A. A debating club meets on the first Sunday morning of every month.
+B. After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work.
+C. Meena sends out 10 invitations for a bachelorette party she is giving for her elder sister.
+D. Whenever she eats at a Chinese restaurant, Roop seems to run into Dibya.
+Answer: B.
+
+Q17. A Tiebreaker is an additional contest carried out to establish a winner among tied contestants. Choose one situation from the options below that best represents a Tiebreaker.
+
+A. At halftime, the score is tied at 2-2 in a football match.
+B. Serena and Maria have each secured 1 set in the game.
+C. The umpire tosses a coin to decide which team will have bat first.
+D. RCB and KKR each finished at 140 all out.
+Answer: D
+
+Q18. The Sharks and the Bears each finished with 34 points, and they are now battling it out in a five-minute overtime.
+
+A. When he is offered a better paying position, Jacob leaves the restaurant he manages to manage a new restaurant on the other side of town.
+B. Catherine is spending her junior year of college studying abroad in France.
+C. Malcolm is readjusting to civilian life after two years of overseas military service.
+D. After several miserable months, Sharon decides that she can no longer share an apartment with her roommate Hilary.
+Answer: C
+
+Q19. Reentry occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry?
+
+A. When he is offered a better paying position, Javed leaves the hotel he manages to manage another one in a neighboring city.
+B. Charan is spending her final year of college studying abroad in China.
+C. Manan is readjusting to civilian life after 2 years of overseas merchant navy service.
+D. After 5 miserable months, Sneha decides that she can no longer share her room with roommate Hital.
+Answer: C
+
+Q20. Posthumous Award occurs when an award is given to someone, after their death. Choose one situation below as the best example of Posthumous Award.
+
+A. Late yesteryear actress Sridevi was awarded with a Lifetime Achievement Award posthumously in Filmfare 2019.
+B. Chitra never thought she’d live to receive a third booker prize for her novel.
+C. Emanuel has been honored with a prestigious literary award for his writing career and his daughter accepted the award on behalf of her deceased father.
+D. Meenal’s publisher canceled her book contract after she failed to deliver the manuscript on time.
+Answer: A and C
